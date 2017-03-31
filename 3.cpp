@@ -1,4 +1,4 @@
-/*
+
 #include <iostream> 
 #include <iomanip> 
 #include <cstring>
@@ -8,14 +8,14 @@
 #include<queue>
 /*
 	Name:SUBSET SUM Problem
-	Á¤¼ö a1,a2,...,anÀÌ ÁÖ¾îÁ® ÀÖÀ» ¶§ ¸î°³ÀÇ ¼ö¸¦ ÇÕÃÄ ±× ÇÕÀÌ k°¡ µÇ¸é Yes¸¦ Ãâ·ÂÇÑ´Ù.
+	ì •ìˆ˜ a1,a2,...,anì´ ì£¼ì–´ì ¸ ìˆì„ ë•Œ ëª‡ê°œì˜ ìˆ˜ë¥¼ í•©ì³ ê·¸ í•©ì´ kê°€ ë˜ë©´ Yesë¥¼ ì¶œë ¥í•œë‹¤.
 	Input: int n, arr a, int k
 	Output: Yes or No
 	Example
 	n = 4
 	a = {1, 2, 4, 7}
 	k = 13
-	°á°ú: Yes
+	ê²°ê³¼: Yes
 	
 	DATE. 2017.3.28 
 	Author by Handevelop.
@@ -50,4 +50,3 @@ int main()
 		cout << "No" << endl;
 	return 0;
 }
-*/
