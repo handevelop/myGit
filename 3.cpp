@@ -19,7 +19,7 @@
 	
 	DATE. 2017.3.28 
 	Author by Handevelop.
-
+*/
 using namespace std;
 int n, k;
 int *a;
